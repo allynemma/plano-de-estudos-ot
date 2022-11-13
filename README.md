@@ -20,4 +20,4 @@ Cursos em andamento:
 - [x] [Como Entregar seu desafio de projeto](https://web.dio.me/course/como-entregar-seu-desafio-de-projeto/learning/488fc49a-0738-4e9d-bf87-ea22d2591fde?back=/track/orange-tech&tab=undefined&moduleId=undefined) Iniciado 12/11/22. Finalizado em 13/11/22. 
 
 ## Próximo curso:
-### [Primeiros Passos Com JavaScript] (https://web.dio.me/course/primeiros-passos-com-javascript/learning/f699d9a3-0b44-461f-9839-602945ea6579?back=/track/orange-tech&tab=undefined&moduleId=undefined)
+### [Primeiros Passos Com JavaScript](https://web.dio.me/course/primeiros-passos-com-javascript/learning/f699d9a3-0b44-461f-9839-602945ea6579?back=/track/orange-tech&tab=undefined&moduleId=undefined)
